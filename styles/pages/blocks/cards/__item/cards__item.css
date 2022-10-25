@@ -1,0 +1,16 @@
+.cards__item {
+    padding-top: 60px;
+    flex-basis: 240px;
+}
+
+@media screen and (max-width: 531px) {
+    .cards__item {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .cards__item {
+        flex-basis: 55%;
+    }
+}
