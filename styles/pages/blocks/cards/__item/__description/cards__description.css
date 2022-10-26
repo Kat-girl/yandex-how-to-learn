@@ -5,8 +5,3 @@
     text-align: center;
 }
 
-@media screen and (max-width: 420px) {
-    .cards__description {
-        text-align: left;
-    }
-}
