@@ -1,0 +1,11 @@
+.khan__book-pic-container {
+    height: 608px;
+    overflow: hidden;
+    margin-right: 48px;
+}
+
+@media screen and (max-width: 660px) {
+    .khan__book-pic-container {
+        margin-bottom: 20px;
+    }
+}

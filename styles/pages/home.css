@@ -45,3 +45,15 @@
 @import url(blocks/table/__cell/table__cell.css);
 @import url(blocks/table/__cell/__heading/table__heading.css);
 @import url(blocks/table/__cell/__text/table__text.css);
+
+@import url(blocks/khan/khan.css);
+@import url(blocks/khan/__container/khan__container.css);
+@import url(blocks/khan/__container/__author/khan__author.css);
+@import url(blocks/khan/__container/__title/khan__title.css);
+@import url(blocks/khan/__container/__quote/khan__quote.css);
+@import url(blocks/khan/__container/__quote-author/khan__quote-author.css);
+@import url(blocks/khan/__container/__quote-author-subline/khan__quote-author-subline.css);
+@import url(blocks/khan/__container/__book-container/khan__book-container.css);
+@import url(blocks/khan/__container/__book-pic-container/khan__book-pic-container.css);
+@import url(blocks/khan/__container/__book-pic/khan__book-pic.css);
+@import url(blocks/khan/__container/__buy-link/khan__buy-link.css);
