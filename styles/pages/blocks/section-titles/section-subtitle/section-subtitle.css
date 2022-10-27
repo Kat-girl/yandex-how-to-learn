@@ -7,3 +7,8 @@
 .section-subtitle_margin_bottom {
     margin-bottom: 50px;
 }
+
+.section-subtitle_theme_dark {
+    position: relative;
+    z-index: 1;
+}
