@@ -5,3 +5,17 @@
     font-size: 36px;
     font-weight: normal;
 }
+
+@media screen and (max-width: 1277px) {
+    .feynman__subtitle {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .feynman__subtitle {
+        font-size: 22px;
+        font-weight: normal;
+        margin-top: 43px;
+    }
+}

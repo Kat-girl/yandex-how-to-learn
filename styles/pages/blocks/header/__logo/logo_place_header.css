@@ -8,3 +8,9 @@
     left: 64px;
     z-index: 2;
 }
+
+@media screen and (max-width: 420px) {
+    .logo_place_header {
+        left: 34px;
+    }
+}

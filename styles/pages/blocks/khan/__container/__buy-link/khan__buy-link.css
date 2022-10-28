@@ -11,9 +11,21 @@
     opacity: 0.5;
 }
 
+@media screen and (max-width: 870px) {
+    .khan__buy-link {        
+        font-size: 27px;
+    }
+}
+
 @media screen and (max-width: 660px) {
     .khan__buy-link {
         flex-basis: 100%;
         margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .khan__buy-link {        
+        font-size: 20px;
     }
 }

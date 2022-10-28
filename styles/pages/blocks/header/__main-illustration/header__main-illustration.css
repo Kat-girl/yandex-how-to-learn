@@ -8,3 +8,15 @@
     background-size: 100%;
     background-repeat: no-repeat;
 }
+@media screen and (max-width: 1277px) {
+    .header__main-illustration {
+        width: 641px;
+        bottom: -64px;
+    }
+}
+
+@media screen and (max-width: 531px) {
+    .header__main-illustration {
+        display: none;
+    }
+}

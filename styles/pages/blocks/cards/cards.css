@@ -2,14 +2,13 @@
     width: 920px;
     margin: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
 @media screen and (max-width: 1100px) {    
     .cards {
         width: 70%;
-        justify-content: center;
     }
 }
 

@@ -6,8 +6,10 @@
     margin-bottom: 36px;
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 870px) {
     .khan__quote {
         width: 70%;
+        line-height: 24px;
+        font-size: 18px;
     }
 }

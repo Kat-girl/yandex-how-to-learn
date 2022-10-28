@@ -5,3 +5,9 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+@media screen and (max-width: 1277px) {
+    .table {
+        max-width: 90%;
+    }
+}

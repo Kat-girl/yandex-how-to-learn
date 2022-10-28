@@ -10,3 +10,22 @@
     padding-top: 80px;
     z-index: 1;
 }
+
+@media screen and (max-width: 870px) {
+    .table__cell {
+        flex: 1 1 50%;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .table__cell {
+        padding-top: 50px;
+        padding-right: 15px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .table__cell {
+        flex: 1 1 60%;
+    }
+}

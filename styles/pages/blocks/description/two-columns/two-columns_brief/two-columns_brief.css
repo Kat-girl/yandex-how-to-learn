@@ -6,3 +6,9 @@
     width: 175px;
     align-self: flex-start;
 }
+
+@media screen and (max-width: 420px) {
+    .two-columns_brief {
+        font-size: 16px;
+    }
+}

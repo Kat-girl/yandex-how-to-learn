@@ -10,8 +10,5 @@
     .footer__columns {
         flex-wrap: wrap;
         justify-content: flex-start;
-    }
-    .footer__column_content_info {
-        margin-right: 25px;
-    }
+    }    
 }

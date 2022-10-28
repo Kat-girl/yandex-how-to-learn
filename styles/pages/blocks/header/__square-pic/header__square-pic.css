@@ -19,3 +19,16 @@
     animation: rot 20s infinite linear;
     overflow: hidden;
 }
+
+@media screen and (max-width: 1277px) {
+    .header__square-pic {
+        width: 497px;
+        top: 111px;
+    }
+}
+
+@media screen and (max-width: 531px) {
+    .header__square-pic {
+        left: 175px;
+    }
+}

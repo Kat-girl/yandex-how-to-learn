@@ -7,15 +7,15 @@
     margin-right: 20px;
 }
 
-@media screen and (max-width: 870px) {
+@media screen and (max-width: 1100px) {
     .video__iframe {
             flex-basis: 70%;
         }
 
-                .video__iframe:first-of-type {
-                    margin-right: 0;
-                    margin-bottom: 20px;
-                }
+    .video__iframe:first-of-type {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
 }
 
 @media screen and (max-width: 531px) {

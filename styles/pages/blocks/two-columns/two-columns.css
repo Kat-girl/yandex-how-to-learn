@@ -5,3 +5,9 @@
     width: 80%;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 870px) {
+    .two-columns {
+        flex-wrap: wrap;
+    }
+}
